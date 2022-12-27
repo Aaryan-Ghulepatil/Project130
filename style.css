@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    top:0;
+    font-family: 'Basic', sans-serif;
+    color:black;
+    font-size:18px;
+}
+
+#head{
+    font-family: 'Basic', sans-serif;
+    font-size:30px;
+    text-shadow:2px 2px 5px white;
+    line-height:1.5;
+
+}
+
+h2{
+    font-family: 'Train One', cursive;
+    font-size: 40px;
+    color:white;
+}
+
+canvas{
+    border-radius: 20px;
+    border:3px white solid ;
+    box-shadow:4px 4px 20px grey;
+    margin-top:150px;
+}
